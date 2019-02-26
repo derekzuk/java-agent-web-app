@@ -1,6 +1,7 @@
+# Java Agent Web App
 [![Build Status](https://travis-ci.org/derekzuk/java-agent-web-app.svg?branch=master)](https://travis-ci.org/derekzuk/java-agent-web-app)
 
-# Web
+This is the corresponding web application to be used with the Java Agent for Spring Boot: https://github.com/derekzuk/java-agent-spring-boot
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
